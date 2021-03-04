@@ -5,7 +5,7 @@
  Blank Pygame Template with Raspberry Pi GPIO
  
 """
- 
+ rainbow
 import pygame
 
 #import RPi.GPIO as GPIO
